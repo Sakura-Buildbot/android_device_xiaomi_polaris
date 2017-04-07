@@ -152,3 +152,7 @@ PRODUCT_SOONG_NAMESPACES += \
 # Wallpapers
 PRODUCT_PACKAGES += \
     PixelLiveWallpaperPrebuilt
+
+# WiFi
+PRODUCT_PACKAGES += \
+    TargetWifiOverlay
